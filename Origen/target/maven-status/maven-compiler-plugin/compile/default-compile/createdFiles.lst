@@ -1,0 +1,6 @@
+destinos\edu\pe\modelo\Origen.class
+destinos\edu\pe\controller\OrigenController.class
+destinos\edu\pe\servicios\imp\OrigenServiceImp.class
+destinos\edu\pe\servicios\OrigenServicios.class
+destinos\edu\pe\repositorio\OrigenRepositorio.class
+destinos\edu\pe\DestinosApplication.class
